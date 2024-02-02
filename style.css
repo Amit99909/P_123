@@ -1,0 +1,28 @@
+.footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color: crimson;
+    color:white;
+    text-align: center;
+    font-family: 'Amita';
+}
+div{
+    width: 100%;
+}
+canvas{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 5px 5px 5px grey;
+}
+h3{
+    font-family: 'Almendra SC';
+}
+p{
+    font-family: 'Almendra SC';
+}
+h4{
+    font-family: 'Almendra SC';
+}
